@@ -1,0 +1,28 @@
+[
+  {
+    "nombre": "iPhone 8",
+     "Nombre": "iPhone X",
+      "Marca": "Apple",
+      "Precio": 18500,
+      "Procesador": "Apple A11",
+      "Memoria Interna": "64 GB / 256 GB",
+      "Camara": "12 MP"
+    }
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
+]
